@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+message: "If you use these data, code, or fabrication files, please cite this archived release."
+title: "Coin-Copter: Data, Code, and Fabrication Files"
+version: 1.0.0
+type: software
+abstract: >-
+  Data, analysis and plotting code, control software, CAD and fabrication files,
+  and supporting documentation associated with the Science Advances manuscript
+  "A Stable Coin-sized Helicopter Design with Enough Lift for Autonomy."
+authors:
+  - given-names: Kyle
+    family-names: Johnson
+    affiliation: Paul G. Allen School of Computer Science and Engineering, University of Washington
+  - given-names: Vicente
+    family-names: Arroyos
+    affiliation: Paul G. Allen School of Computer Science and Engineering, University of Washington
+  - given-names: Semayat
+    family-names: Yewondwossen
+    affiliation: Department of Mechanical Engineering, University of Washington
+  - given-names: Ousman
+    family-names: Njie
+    affiliation: Department of Electrical and Computer Engineering, University of Washington
+  - given-names: Giannah
+    family-names: Donahoe
+    affiliation: Department of Electrical and Computer Engineering, University of Washington
+  - given-names: Rogelio
+    family-names: Arroyos
+    affiliation: Department of Mechanical Engineering, Central Washington University
+  - given-names: Kevin
+    family-names: Hernandez
+    affiliation: Paul G. Allen School of Computer Science and Engineering, University of Washington
+  - given-names: Michael
+    family-names: Ibrahim
+    affiliation: Paul G. Allen School of Computer Science and Engineering, University of Washington
+  - given-names: Vikram
+    family-names: Iyer
+    affiliation: Paul G. Allen School of Computer Science and Engineering, University of Washington
+  - given-names: Sawyer
+    family-names: Fuller
+    affiliation: Department of Mechanical Engineering, University of Washington
+keywords:
+  - aerial robotics
+  - near-gram robots
+  - helicopter
+  - flybar
+  - passive stabilization
+  - microfabrication
+  - flight control
+  - research data
+license: MIT

@@ -1,0 +1,71 @@
+{
+  "creators": [
+    {
+      "name": "Johnson, Kyle",
+      "affiliation": "Paul G. Allen School of Computer Science and Engineering, University of Washington",
+      "type": "ProjectMember"
+    },
+    {
+      "name": "Arroyos, Vicente",
+      "affiliation": "Paul G. Allen School of Computer Science and Engineering, University of Washington",
+      "type": "ProjectMember"
+    },
+    {
+      "name": "Yewondwossen, Semayat",
+      "affiliation": "Department of Mechanical Engineering, University of Washington",
+      "type": "ProjectMember"
+    },
+    {
+      "name": "Njie, Ousman",
+      "affiliation": "Department of Electrical and Computer Engineering, University of Washington",
+      "type": "ProjectMember"
+    },
+    {
+      "name": "Donahoe, Giannah",
+      "affiliation": "Department of Electrical and Computer Engineering, University of Washington",
+      "type": "ProjectMember"
+    },
+    {
+      "name": "Arroyos, Rogelio",
+      "affiliation": "Department of Mechanical Engineering, Central Washington University",
+      "type": "ProjectMember"
+    },
+    {
+      "name": "Hernandez, Kevin",
+      "affiliation": "Paul G. Allen School of Computer Science and Engineering, University of Washington",
+      "type": "ProjectMember"
+    },
+    {
+      "name": "Ibrahim, Michael",
+      "affiliation": "Paul G. Allen School of Computer Science and Engineering, University of Washington",
+      "type": "ProjectMember"
+    },
+    {
+      "name": "Iyer, Vikram",
+      "affiliation": "Paul G. Allen School of Computer Science and Engineering, University of Washington",
+      "type": "ProjectMember"
+    },
+    {
+      "name": "Fuller, Sawyer",
+      "affiliation": "Department of Mechanical Engineering, University of Washington",
+      "type": "ProjectMember"
+    }
+  ],
+  "title": "Coin-Copter: Data, Code, and Fabrication Files",
+  "description": "Archived data, analysis and plotting code, control software, CAD and fabrication files, and supporting documentation associated with the Science Advances manuscript \"A Stable Coin-sized Helicopter Design with Enough Lift for Autonomy.\"",
+  "version": "1.0.0",
+  "access_right": "open",
+  "keywords": [
+    "aerial robotics",
+    "near-gram robots",
+    "helicopter",
+    "flybar",
+    "passive stabilization",
+    "microfabrication",
+    "flight control",
+    "research data"
+  ],
+  "license": "mit",
+  "upload_type": "software",
+  "language": "eng"
+}
